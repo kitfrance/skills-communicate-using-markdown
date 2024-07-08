@@ -9,3 +9,9 @@
 ##### Header 5
 
 ###### Header 6
+
+## Octocat Image
+
+*Yaktocat!* 🐈‍⬛
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
